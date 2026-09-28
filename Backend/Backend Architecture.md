@@ -1,4 +1,5 @@
-⚙️ BACKEND ARCHITECTURE
+````md
+⚙️ Backend Architecture
 
 signlingo-backend/
 │
@@ -616,3 +617,5 @@ signlingo-backend/
     ├── achievements.json
     ├── stories.json
     └── speed_sign_levels.json
+```
+````
