@@ -1,4 +1,6 @@
-🎨 FRONTEND ARCHITECTURE
+# 🎨 FRONTEND ARCHITECTURE
+
+```text
 signlingo-frontend/
 │
 ├── 📄 next.config.js
@@ -167,7 +169,6 @@ signlingo-frontend/
 │   │           └── route.ts
 │   │
 │   ├── 📁 components/
-│   │   │
 │   │   ├── 📁 ui/
 │   │   │   ├── Button.tsx
 │   │   │   ├── Card.tsx
