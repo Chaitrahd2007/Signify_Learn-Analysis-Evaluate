@@ -1318,6 +1318,3 @@ If you find SIGNIFY interesting:
 ### 🤟 Learn • Practice • Play • Communicate
 
 **SIGNIFY**
-
-Developers:
-- For phase 2-Chaitra
